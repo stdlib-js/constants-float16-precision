@@ -90,8 +90,8 @@ console.log( FLOAT16_PRECISION );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/float32/precision`][@stdlib/constants/float32/precision]</span><span class="delimiter">: </span><span class="description">effective number of bits in the significand of a single-precision floating-point number.</span>
--   <span class="package-name">[`@stdlib/constants/float64/precision`][@stdlib/constants/float64/precision]</span><span class="delimiter">: </span><span class="description">effective number of bits in the significand of a double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-float32/precision`][@stdlib/constants/float32/precision]</span><span class="delimiter">: </span><span class="description">effective number of bits in the significand of a single-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/precision`][@stdlib/constants/float64/precision]</span><span class="delimiter">: </span><span class="description">effective number of bits in the significand of a double-precision floating-point number.</span>
 
 </section>
 
