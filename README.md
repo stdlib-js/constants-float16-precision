@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT16_PRECISION from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-precision@deno/mod.js';
+import FLOAT16_PRECISION from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-precision@v0.2.0-deno/mod.js';
 ```
 
 #### FLOAT16_PRECISION
@@ -67,7 +67,7 @@ var bool = ( FLOAT16_PRECISION === 11 ); // including implicit bit
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT16_PRECISION from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-precision@deno/mod.js';
+import FLOAT16_PRECISION from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-precision@v0.2.0-deno/mod.js';
 
 console.log( FLOAT16_PRECISION );
 // => 11
