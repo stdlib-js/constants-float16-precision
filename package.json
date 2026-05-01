@@ -65,6 +65,7 @@
     "half",
     "floating-point",
     "float",
+    "float16",
     "ieee754",
     "precision",
     "significand"
